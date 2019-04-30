@@ -8,18 +8,18 @@ Intel WLAN driver implementation to Apple Mac OS.
 - [Pages](#pages)
 - [References](#references)
 
-### Languages
+## Languages
 
-This documentation can be translated to other languages, view [English][languages-english] for latest version.
+This documentation can be translated to other languages, view [Korean][languages-korean] for latest version.
 
 - [English][languages-english]
 - [Korean][languages-korean]
 
-### Pages
+## Pages
 
 There is no page except for this, yet.
 
-### References
+## References
 
 - [github:torvalds/linux@master linux/drivers/net/wireless/intel/](https://github.com/torvalds/linux/tree/master/drivers/net/wireless/intel)
 - [github:ammulder/AppleIntelWiFiMVM@master](https://github.com/ammulder/AppleIntelWiFiMVM)
