@@ -1,27 +1,23 @@
 # AppleIntelWLANimplement
 
-Intel WLAN driver implementation to Apple Mac OS.
+Apple Mac OS에 Intel WLAN driver를 구현합니다.
 
 ## Table of Contents
 
 - [Languages](#languages)
 - [Pages](#pages)
-- [Hello](#hello)
 - [References](#references)
 
 ### Languages
 
-This documentation can be translated to other languages, view [English][languages-english] for latest version.
+이 문서를 다른 언어로도 번역될 수 있습니다, 마지막 버전은 [영어][languages-english]를 참조하세요.
 
 - [English][languages-english]
 - [Korean][languages-korean]
 
-### Hello
+### Pages
 
-Say, hello to this project!
-
-Starting is very hopeful result, just press one of above section!
-(I hope there is your language)
+아직 이 페이지 외에 다른 페이지가 없습니다.
 
 ### References
 

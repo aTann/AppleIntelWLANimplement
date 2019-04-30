@@ -6,7 +6,6 @@ Intel WLAN driver implementation to Apple Mac OS.
 
 - [Languages](#languages)
 - [Pages](#pages)
-- [Hello](#hello)
 - [References](#references)
 
 ### Languages
@@ -16,12 +15,9 @@ This documentation can be translated to other languages, view [English][language
 - [English][languages-english]
 - [Korean][languages-korean]
 
-### Hello
+### Pages
 
-Say, hello to this project!
-
-Starting is very hopeful result, just press one of above section!
-(I hope there is your language)
+There is no page except for this, yet.
 
 ### References
 
