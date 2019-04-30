@@ -42,8 +42,8 @@ Languages
 Pages
 -->
 
-[pages-index]: [/docs/ko/README.md]
-[pages-scratches]: [/docs/ko/Scratches.md]
+[pages-index]: /docs/ko/README.md
+[pages-scratches]: /docs/ko/Scratches.md
 
 <!--
 Others
